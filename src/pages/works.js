@@ -47,7 +47,7 @@ const Works = () => {
   return (
     <Layout>
     
-      <h3>Installation views, mixed videos, and some full videos of my most recent works. <Link to='/about-art'>Read more about my approach</Link> or <Link to='/contact-sheets'>see contact sheets and videos on this site</Link>.</h3>
+      <h3>Installation views and videos from selected works. See more works and more details with <Link to='/contact-sheets'>contact sheets and videos</Link> or <Link to='/about-art'>read more about my approach.</Link></h3>
             
       {worksList.map(( { title, desc, photos, vids, forceOpen }) => {
         const processedTitle = title.split(' ').map(el => el.toLowerCase()).join('-');

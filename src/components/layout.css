@@ -633,6 +633,7 @@ pre tt:after {
 
 #about-codie::after,
 #bio::after, 
+#contact-sheets::after,
 #link-index::after, 
 #livecode::after,
 #performances::after,
@@ -652,6 +653,10 @@ pre tt:after {
 
 #bio::after {
   content: 'bio'
+}
+
+#contact-sheets::after {
+  content: 'contact sheets &  videos'
 }
 
 #link-index::after {

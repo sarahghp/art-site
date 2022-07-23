@@ -5,11 +5,13 @@ current: 'index'
 
 ## <a id="bio" class="relative" href="/about-sarah">Sarah GHP</a> is a <a id="statement" class="relative" href="/about-art">digital & video artist</a>. 
 
-## She creates <a id="selected" class="relative" href="/works">large-scale abstract works</a> with and without the help of synths. 
+## She creates <a id="selected" class="relative" href="/works">large-scale abstract works and audiovisual collaborations</a> with computers and video synths. 
 
-## She performs as the visualist for <a id="about-codie" class="relative" href="/about-codie">Codie</a> — a <a id="livecode" class="relative" href="/about-livecode">livecode</a> collective.
+## (👉 Check out these <a id="contact-sheets" class="relative" href="/contact-sheets">detailed views.</a>)
 
-## also included: <a id="link-index" class="relative" href="/other-projects-index">essays, contact sheets & more</a>
+## Sarah performs as the visualist for <a id="about-codie" class="relative" href="/about-codie">Codie</a> — a <a id="livecode" class="relative" href="/about-livecode">livecode</a> collective.
+
+##  <a id="link-index" class="relative" href="/essays">She has also written an essay or two.</a>
 
 ##### 🛒 now you <a href="https://sarahghp.bigcartel.com/">can shop for prints</a> 🛒
 

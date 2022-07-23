@@ -38,9 +38,9 @@ export const homageToAldo = {
       vid: 'https://sarahghp.com/vids/homage-to-aldo/hta02.mp4', 
       caption: 'Monochrome pieces created by rescanning digital animations and applying live manipulations from an analog frame buffer.'
     },
-    {
-      vid: 'https://sarahghp.com/vids/homage-to-aldo/hta03.mp4', 
-      caption: 'Color views created using modern Eurorack synths and video editing sofware.'
-    },
+    // {
+    //   vid: 'https://sarahghp.com/vids/homage-to-aldo/hta03.mp4', 
+    //   caption: 'Color views created using modern Eurorack synths and video editing sofware.'
+    // },
   ],
 }

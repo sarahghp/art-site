@@ -2,10 +2,12 @@ import React from 'react'
 import { Link } from 'gatsby'
 import { Layout, NavFooter } from '../components'
 
-
 const List = () => (
   <Layout>
     <h2 id="contact-sheets>">Contact Sheets</h2>
+    <h3> <Link to="../contact-sheet-gems-in-die-wuste">Gems in die Wüste</Link></h3>
+    <h3> <Link to="../contact-sheet-two-up-2">Two-Up No. 2</Link></h3>
+    <h3> <Link to="../contact-sheet-20220202">02.02.2022</Link></h3>
     <h3> <Link to="../contact-sheet-010221">01.02.2021</Link></h3>
     <h3> <Link to="../contact-sheet-122920">12.29.2020</Link></h3>
     <h3> <Link to="../contact-sheet-serrated">Serrated</Link></h3>
