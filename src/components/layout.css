@@ -1,3 +1,8 @@
+::selection {
+  background: hsla(60, 100%, 50%, 1);
+}
+
+
 html {
   font-family: 'Avenir Next', sans-serif;
   -ms-text-size-adjust: 100%;
@@ -632,12 +637,12 @@ pre tt:after {
 }
 
 #about-codie::after,
-#bio::after, 
+#bio::after,
 #contact-sheets::after,
-#link-index::after, 
+#link-index::after,
 #livecode::after,
 #performances::after,
-#selected::after, 
+#selected::after,
 #statement::before {
   position: absolute;
   font-size: 12px;
